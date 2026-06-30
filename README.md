@@ -69,8 +69,8 @@ saucedemo-manual-testing
 
 | Metric | Result |
 |--------|--------|
-| Total Test Cases | 6 |
-| Passed | 3 |
+| Total Test Cases | 10 |
+| Passed | 7 |
 | Failed | 3 |
 | Blocked | 0 |
 
